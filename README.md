@@ -1,5 +1,5 @@
 # Delta - file uploader + url shortner
-
+[![Run on Repl.it](https://repl.it/badge/github/fosslife/delta)](https://repl.it/github/fosslife/delta)
 `delta` is a small hobby project that I did in my free time. It's a self-hosted file uploader + URL shortner. In short, you can fire a simple `curl` command with a file name, and that file will be uploaded to your server, after that you'll have a short url as a reponse of upload. And you can use this URL to fetch the uploaded file. Same goes with URL shortner
 
 ## Demo
